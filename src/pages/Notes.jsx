@@ -1,5 +1,5 @@
 import React from 'react';
-    import './Notes.css';
+    import '../styles/Notes.css';
 
     function Notes() {
       return (
