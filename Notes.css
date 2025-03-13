@@ -1,0 +1,10 @@
+/* Notes Section */
+    .notes-section {
+      text-align: left;
+    }
+
+    .previously-uploaded {
+      border: 1px solid #ddd;
+      padding: 15px;
+      border-radius: 5px;
+    }
